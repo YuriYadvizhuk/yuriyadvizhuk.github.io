@@ -1,0 +1,20 @@
+/* font-family: "CaviarDreamsRegular"; */
+@font-face {
+    font-family: "CaviarDreamsRegular";
+    src: url("../fonts/CaviarDreamsRegular/CaviarDreamsRegular.eot");
+    src: url("../fonts/CaviarDreamsRegular/CaviarDreamsRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/CaviarDreamsRegular/CaviarDreamsRegular.woff") format("woff"),
+    url("../fonts/CaviarDreamsRegular/CaviarDreamsRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "CaviarDreamsBold"; */
+@font-face {
+    font-family: "CaviarDreamsBold";
+    src: url("../fonts/CaviarDreamsBold/CaviarDreamsBold.eot");
+    src: url("../fonts/CaviarDreamsBold/CaviarDreamsBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/CaviarDreamsBold/CaviarDreamsBold.woff") format("woff"),
+    url("../fonts/CaviarDreamsBold/CaviarDreamsBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
