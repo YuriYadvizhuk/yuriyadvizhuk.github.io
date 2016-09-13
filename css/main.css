@@ -177,8 +177,13 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 #header #logo{
   text-align: center;
-
   display: none;
+}
+#header h2 {
+  display: inline-block;
+  border: solid 2px;
+  padding: 10px;
+  border-radius: 5px;
 }
 #header h4{
   margin-bottom:0px; 
